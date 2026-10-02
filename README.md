@@ -25,4 +25,3 @@ While the current version focuses on automated data cleaning and structural audi
 - Integrated statistical profiling (mean, median, mode, and standard deviation summaries).
 - Automatic handling options (e.g., dropping or imputing missing rows at the click of a button).
 - Interactive data visualization charts using Python plotting libraries.
-- 
